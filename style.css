@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 30px;
+}
+#container {
+    margin: auto;
+    width: 50%;
+    height: 20%;
+    border-style: solid;
+}
+
+button {
+    width: 150px;
+    height: 100px;
+}
